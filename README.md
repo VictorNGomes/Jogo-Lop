@@ -1,4 +1,4 @@
-# jogo-Lop
+# Jogo-Lop
 # Equipe: 
 # Victor do Nascimento Gomes - Subturma A (Líder) 
 # Fellype Eduardo de Farias Martins - Subturma A 
