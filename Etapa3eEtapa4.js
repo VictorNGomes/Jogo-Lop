@@ -5,7 +5,7 @@ var bg
 var xd
 var yd
 var disparo = false
-var missel
+
 var xo = 0
 var yo = 50
 function preload(){
