@@ -105,10 +105,10 @@ if (keyIsDown(CONTROL) && (! disparo) ){
     
       if(dist(x,y,xo[i],yo[i]) < 22){
         hp = hp - 1
-        if(hp<=0){
-            
+        if(hp<0){
+          hp = 10
           level = 1
-          
+          veli = 3
            }
        }
     
