@@ -3,7 +3,7 @@ var pontuação = 0;
 var level = 1;
 var x = 0;
 var y = 0;
-var img
+var img;
 var bg
 var xd
 var yd
