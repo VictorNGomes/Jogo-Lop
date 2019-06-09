@@ -197,6 +197,11 @@ if(tela === 4){
 
     background(gameover)
     if(keyIsDown(ENTER)){
+       PONTOS = 0 
+       LIFE = 100
+       level = 0
+       velin = 3
+       B_PONTOS = 10
 
       tela = 1
 
@@ -208,6 +213,11 @@ if(tela === 4){
 if(tela === 5){
 background(t_win)
     if(keyIsDown(ENTER)){
+       PONTOS = 0 
+       LIFE = 100
+       level = 0
+       velin = 3
+       B_PONTOS = 10
 
       tela = 1
     }
